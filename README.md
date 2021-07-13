@@ -8,8 +8,9 @@ Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic f
 other free hosting provider. Check in code in gitlab. <br>
 
 <h3>Credits for Images I used in my project</h3>
-<a href="https://www.freepik.com/vectors/banner">Banner vector created by pch.vector - www.freepik.com</a>
-<a href='https://www.freepik.com/vectors/infographic'>Infographic vector created by vectorjuice - www.freepik.com</a>
-<a href='https://www.freepik.com/vectors/computer'>Computer vector created by pch.vector - www.freepik.com</a>
-<a href='https://www.freepik.com/vectors/internet'>Internet vector created by stories - www.freepik.com</a>
-<a href='https://www.freepik.com/vectors/abstract'>Abstract vector created by vectorjuice - www.freepik.com</a> 
+<hr>
+<a href="https://www.freepik.com/vectors/banner">Banner vector created by pch.vector - www.freepik.com</a> <br>
+<a href='https://www.freepik.com/vectors/infographic'>Infographic vector created by vectorjuice - www.freepik.com</a> <br>
+<a href='https://www.freepik.com/vectors/computer'>Computer vector created by pch.vector - www.freepik.com</a> <br>
+<a href='https://www.freepik.com/vectors/internet'>Internet vector created by stories - www.freepik.com</a> <br>
+<a href='https://www.freepik.com/vectors/abstract'>Abstract vector created by vectorjuice - www.freepik.com</a>  <br>
